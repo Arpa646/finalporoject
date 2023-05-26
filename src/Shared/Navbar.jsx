@@ -46,6 +46,11 @@ const user={
              Home
             </Link>
           </li>
+          <li className="nav-item ">
+            <Link className="nav-link active" to="/menu">
+            Menu
+            </Link>
+          </li>
           <li className="nav-item">
             <Link className="nav-link active" to="/blog">
               Blog
