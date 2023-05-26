@@ -1,0 +1,30 @@
+.bg-gray {
+  background-color: rgba(128, 128, 128, 0.398);
+}
+
+.heightCaro {
+  height: 10px;
+}
+
+.size {
+  height: 50px;
+  border-top-right-radius: 60px;
+  border-bottom-left-radius: 65px;
+  border-bottom-right-radius: 50px;
+
+}
+
+.featured {
+
+  height: 500px;
+  background-image: url('./assets/home/featured.jpg');
+  background-attachment: fixed;
+}
+
+.hhh {
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
